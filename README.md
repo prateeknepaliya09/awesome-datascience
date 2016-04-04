@@ -112,6 +112,7 @@ by [@kzawadz](https://twitter.com/kzawadz) via [twitter](https://twitter.com/Mkt
 * [The GDELT Project](http://gdeltproject.org/)
 * [Sweden, Statistics](http://www.scb.se/en_/)
 * [Github free data source list](http://www.datasciencecentral.com/profiles/blogs/great-github-list-of-public-data-sets)
+* [election datasets (only 1984-1990)](http://road.hmdc.harvard.edu/data)
 * 
 
 ## Bloggers
